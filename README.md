@@ -95,9 +95,12 @@ Highlighted content:
  
   - Not everybody follows these superlist creators on Github
   - It's easier to share this one repo containing all these lists than to individually share all these repos with people
-  - I had real hard time explaining the repos :/
+ 
+ 
+ 
   
   <br>
+  I had some really hard time explaining the content of these repo, so
   
  >Contributions and edit suggestions are welcome.
  

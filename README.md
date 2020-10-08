@@ -1,6 +1,6 @@
 # List Lasagna 
 
-A bunch of developers have created collections(lists) of useful learning resources(links to books, courses, articles, blogs, sites, youtube channels, etc.) on topics related to computer science, software developement, programming and so. Some of these devs have made a "curated" list of these lists. Now there's a lot of these lists and collections, and more will keep coming up. This repo is an attempt to guide you through this lasagna of lists available on Github.
+A bunch of developers have created a collection/list of useful learning resources(links to books, courses, articles, blogs, sites, youtube channels, etc.) on topics related to computer science, software developement, programming and so. Some of these devs have made a "curated" list of these lists. Now there's a lot of these lists and collections, and more will keep coming up. This repo is an attempt to guide you through this lasagna of lists available on Github.
 <br>
 
 
@@ -22,17 +22,17 @@ A bunch of developers have created collections(lists) of useful learning resourc
 ### List of List-of-Lists:
 
 
-[**Awesome**](https://github.com/sindresorhus/awesome)
+[**1. Awesome**](https://github.com/sindresorhus/awesome)
 
-[**Awesome-lists**](https://github.com/pshah123/awesome-lists)
+[**2. Awesome-lists**](https://github.com/pshah123/awesome-lists)
 
-[**Lists-of-lists**](https://github.com/jnv/lists#lists-of-lists) 
+[**3. Lists-of-lists**](https://github.com/jnv/lists#lists-of-lists) 
 
-[**ListOfGithubLists**](https://github.com/asciimoo/ListOfGithubLists/)
+[**4. ListOfGithubLists**](https://github.com/asciimoo/ListOfGithubLists/)
 
-[**Awesome-awesomeness**](https://github.com/bayandin/awesome-awesomeness)
+[**5. Awesome-awesomeness**](https://github.com/bayandin/awesome-awesomeness)
 
-[**Too-many-awesomes**](https://github.com/t3chnoboy/awesome-awesome-awesome)
+[**6. Too-many-awesomes**](https://github.com/t3chnoboy/awesome-awesome-awesome)
  
  
  <br>

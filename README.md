@@ -1,118 +1,61 @@
-# List of Super-Lists of Learning Resources
+# List Lasagna 
 
-**This is a list consisting of the most comprehensive lists of resources about endless topics of computer science, software development, programming, etc., created, shared and maintained by developers on github.**
+**A bunch of developers have created collections(lists) of useful learning resources(links to books, courses, articles, blogs, sites, youtube channels, etc.) on topics related to computer science, software developement, programming and so. Some of these devs have made a "curated" list of these lists. Now there's a lot of these lists and collections, and more will keep coming up. This repo is an attempt to guide you through this lasagna of lists available on Github**
 <br>
 
-### Popular Lists of Resources:
 
-[**Awesome**](https://github.com/sindresorhus/awesome) 
+### List of learning resources:
 
-*Created by Sindre Sorhus, open-source developer, 133k stars, active.*
+[**0. All the awesome lists**](https://github.com/topics/awesome-list)
 
-List of computer science and software development topics, with short explanations, all the links lead to pretty interesting stuff rather than just docs or sites. It even contains lists of other lists like (awesome python and github).
-
-
-[**Awesome Python**](https://github.com/vinta/awesome-python)
-
-*Created by Vinta Chen, 82k+ stars, active.*
-
-More than just a list of useful sites and doc urls. It covers more than surface level resources. Github doc repos, really interesting sites n stuff.
-
-
-[**Awesome Github**](https://github.com/phillipadsmith/awesome-github)
-
-*Created by Phillip Smith, 520 stars, last updated 5 months ago.*
-
-Resources around Git, Github, Git-Github tools, just a lot of Git and Github.
-
-
-[**Lists**](https://github.com/jnv/lists#lists-of-lists) 
-
-*Created by Jan Vlnas, 6k+ stars, active.*
-
-It's the only list with Non-Technical resources and some other lists irrelevant to programming or CS, it might be the oldest list of resources I guess.
-
-
-[**Useful Resources for Developers**](https://github.com/zero-to-mastery/resources)
-
-*Created by Zero To Mastery,  482 stars.*
-
-
-### Resource Super-List Repos followed by Brad Traversy
-
-[**1. A to Z Resources for Students**](https://github.com/dipakkr/A-to-Z-Resources-for-Students)
-
-*Created by Deepak Kumar, 10.2k stars, active*
-
-It is a list of learning resources best suited for engineering students of India (specially computer science engineering students).
-
-Highlights of the content:
-  - List structure is simple to navigate
-  - Surface level resources (thus mainstream) and beginner's friendly
-  - Most beneficial for Indian CSE students/ Indian software developers
-  - A shorter and cleaner list than the others mentioned here, thus more focused
-     
+[**1. A-to-Z-Resources-for-Students**](https://github.com/dipakkr/A-to-Z-Resources-for-Students) 
     
-[**2. DevYouTubeList**](https://github.com/ErikCH/DevYouTubeList)
+[**2. DevYouTubeList**](https://github.com/ErikCH/DevYouTubeList)  
 
-*Created by Erik Hanchett, 2.9k stars, active* 
-
-This is a list of every possible YouTube channel related to software development, computer science, software engineering, etc. 
- 
-Highlights of the content:
-- The simplest list, great structure 
-- Language based channels included as well
-- If you just want to look for a youtube channel directed towards certain tech content, this is the place to look for.
-
-
-[**3. Ultimate Coding Resources List**](https://github.com/PizzaPokerGuy/ultimate-coding-resources)  
- 
-*Created by Dylan C. Israel, 2.4k stars, active.* 
-
-A comprehensive list of books, useful sites, podcasts, youtube channels, development tools, blogs, community, Github repos, etc. 
-  
-Highlights of the content:
-- The most wide-ranging lists, consisting of a little bit of everything
-- Great structure of the resources list, beginner's friendly
-- Go to place for resource lookup for a software developer or a computer science topic
-- It lacks some coding resources from Indian sites as of now, but that's ok, most of them are mainstream, so we're already aware of them
-  
+[**3. Ultimate Coding Resources**](https://github.com/PizzaPokerGuy/ultimate-coding-resources)    
   
 [**4. Awesome Resources Roadmap**](https://github.com/lauragift21/awesome-learning-resources)
- 
-*Created by Gift Egwuenu, 1.8k stars, active.*
 
-An extensive list of only-sites types of resources available on the internet for endless topics of software development and computer science.
- 
-Highlighted content:
-- Alphabetically ordered, simple to follow
-- It's the most exhaustive list of sites for everything CS/SE
-- If you are looking for a website type of resource for a certain topic, this is the place to go.    
+[**5. Useful Resources for Developers**](https://github.com/zero-to-mastery/resources)
 
  <br>
  
+ ### List of Lists:
+
+
+The [**Awesome**](https://github.com/sindresorhus/awesome) List
+List of the most awesome lists. It's a curated list of other awesome lists categorized on various topics of computer science, programming, and software devlopment.
+
+[**Awesome-lists**](https://github.com/pshah123/awesome-lists)
+Another list of almost every? awesome lists, including some non-awesome lists too. 
+
+[**Awesome-awesomeness**](https://github.com/bayandin/awesome-awesomeness)
+Another curated list of awesome lists on github.
+
+[**ListOfGithubLists**](https://github.com/asciimoo/ListOfGithubLists/)
+
+[**Lists**](https://github.com/jnv/lists#lists-of-lists) 
+Lists, nested lists inside nested lists stuff.
+
+[**see-for-yourself**] (https://github.com/t3chnoboy/awesome-awesome-awesome)
+A curated list of curated lists of awesome lists.
+ 
+ 
  ***Why did I create this repo?***
  
-  - Not everybody follows these superlist creators on Github
-  - It's easier to share this one repo containing all these lists than to individually share all these repos with people
+  - Not everybody follows these list creators/developers on Github
+  - It's easier to share this one repo with people you care about containing all these lists than to individually share all these repos.
  
  
  
   
   <br>
-  I had some really hard time explaining the content of these repo, so
+
   
- >Contributions and edit suggestions are welcome.
+ >Contributions and edit suggestions are welcome!
  
  
- 
- 
- 
- 
- 
- 
- 
- 
+
     
 
 
